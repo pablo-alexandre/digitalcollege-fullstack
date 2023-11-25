@@ -5,6 +5,12 @@
     font-family: sans-serif;
 }
 
+
+:root {
+     --black: #000;
+     --white: #fff;
+}
+
 html {
     scroll-behavior: smooth;
 }
